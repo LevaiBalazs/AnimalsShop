@@ -1,0 +1,40 @@
+{
+    "allatok":[
+        {
+            "id":0,
+            "nev":"Kígyóka",
+            "faj":1,
+            "ar":5000
+        },
+        {
+            "id":1,
+            "nev":"Sziszi",
+            "faj":1,
+            "ar":5000
+        },
+        {
+            "id":2,
+            "nev":"Csúszós",
+            "faj":1,
+            "ar":10000
+        },
+        {
+            "id":3,
+            "nev":"Edgar Allen Pok",
+            "faj":2,
+            "ar":2000
+        },
+        {
+            "id":4,
+            "nev":"Höri",
+            "faj":3,
+            "ar":20000
+        }
+    ],
+
+    "fajok":[        
+            {"id":1, "megnevezes":"kigyó"},
+            {"id":2, "megnevezes":"pók"},
+            {"id":3, "megnevezes":"hörcsög"}        
+    ]
+}
